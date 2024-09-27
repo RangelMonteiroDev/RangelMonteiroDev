@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou Rangel Monteiro
-- Estou estudando dotnet
+- Estou estudando Golang
 - Acadêmico de TI
 - 😄 Pronouns: ele/dele
 
