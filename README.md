@@ -28,8 +28,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  class = "iconeLang" height = "30px" width = "30px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  class = "iconeLang" height = "30px" width = "30px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" class = "iconeLang" height = "30px" width = "30px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" class = "iconeLang" height = "30px" width = "30px"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" class = "iconeLang" height = "30px" width = "30px"/>
+                   
  
-<i class="devicon-dot-net-plain-wordmark colored"></i>
+
                       
   
 </div>
