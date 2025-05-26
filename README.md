@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou Rangel Monteiro
-- Estou estudando Golang
+- Estou estudando & trabalhando com .NET(C#)
 - Acadêmico de TI
 - 😄 Pronouns: ele/dele
 
