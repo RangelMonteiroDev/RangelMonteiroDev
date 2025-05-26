@@ -21,8 +21,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  class = "iconeLang" height = "30px" width = "30px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  class = "iconeLang" height = "30px" width = "30px"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  class = "iconeLang" height = "30px" width = "30px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  class = "iconeLang" height = "30px" width = "30px"/>
@@ -30,7 +28,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  class = "iconeLang" height = "30px" width = "30px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  class = "iconeLang" height = "30px" width = "30px"/>
-             
+ 
+<i class="devicon-dot-net-plain-wordmark colored"></i>
+                      
   
 </div>
 
