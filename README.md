@@ -36,13 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" class = "iconeLang" height = "30px" width = "30px"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" class = "iconeLang" height = "30px" width = "30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" class = "iconeLang" height = "30px" width = "30px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" class = "iconeLang" height = "30px" width = "30px"/>
-          
-          
-                   
+              
  
 
                       
